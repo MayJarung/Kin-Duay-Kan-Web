@@ -38,7 +38,7 @@
 
 ## การ Setup Project
 
-### `git clone git@github.com:kornyellow/kmitl-kin-duay-kan.git`
+### `git clone https://github.com/MayJarung/Kin-Duay-Kan-Web.git`
 
 ### `cd ./kmitl-kin-duay-kan`
 
